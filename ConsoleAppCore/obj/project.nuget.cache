@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "w5GmJr2pJpGqnPo9YV2v+RQ/lFngEm/PDwFWpx3tTpaNyo9E6vDinHqWmN31CJBOasuNjkiMcqo5bR/QU3atyg==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\eliseog\\Documents\\16R137\\StringJoin_Dictionary\\ConsoleAppCore\\ConsoleAppCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eliseog\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\eliseog\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\eliseog\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\eliseog\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\eliseog\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\eliseog\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package HL.HPMS.Contracts.Public.dll. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages, nuget.org",
+      "libraryId": "HL.HPMS.Contracts.Public.dll",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.0"
+      ]
+    }
+  ]
+}
